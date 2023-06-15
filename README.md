@@ -30,9 +30,8 @@ I did not run any tests on the project, it was only tweaked through usage.
 
 ## Video Demo
 
-<video src="./Challenge-09.mov" controls="controls" style="max-width: 730px;">
-</video>
-    
+![Challenge-09](Challenge-09.mov)
+
 ## Questions
 GitHub: [ptookey](https://github.com/ptookey)
 Email: petetookey@gmail.com

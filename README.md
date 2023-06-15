@@ -28,9 +28,10 @@ I did not run any tests on the project, it was only tweaked through usage.
 
 [Challenge-09](https://ptookey.github.io/Challenge-09/)
 
-## Screenshot of Page
+## Video Demo
 
-![Challenge-09](Challenge-09.mov)
+<video src="./Challenge-09.mov" controls="controls" style="max-width: 730px;">
+</video>
     
 ## Questions
 GitHub: [ptookey](https://github.com/ptookey)

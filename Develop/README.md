@@ -1,6 +1,6 @@
-# Project Title: This is the Project Title
+# Project Title: Logo Generator
 ## Description 
-It is a good Project
+It is a simple command prompt line that allows you to create a simple logo with up to three letters, and choices of shapes and colors.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,16 +10,16 @@ It is a good Project
 - [Questions](#questions)
 
 ## Installation 
-You use the thing to install
+You would only have to download the code from the git hub
 
 ## Usage 
-It is pretty just look at it
+You use node index.js and then answer the questions and the logo will be generated to logo.svg
 
 ## Contributing 
-Uh probably dont contribute
+If you find any issues then open an issue on github
 
 ## Tests 
-No tests but also all Tests
+Made a logo and confirmed that it was what was expected with the imputed results with jest
 
 ## License 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)

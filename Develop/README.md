@@ -1,29 +1,22 @@
-# Project Title: Logo Generator
+# Project Title: Note Taker
 ## Description 
-It is a simple command prompt line that allows you to create a simple logo with up to three letters, and choices of shapes and colors.
+It is a simple web application that allows you to write, read, and delete notes online.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Questions](#questions)
 
 ## Installation 
-You would only have to download the code from the git hub
+Download the code from github and deploy it to a live site.
 
 ## Usage 
-You use node index.js and then answer the questions and the logo will be generated to logo.svg
+It can be used to take notes for anything and everything and then reference back to it later.
 
 ## Contributing 
-If you find any issues then open an issue on github
+If there are issues create an issue and let me know
 
-## Tests 
-Made a logo and confirmed that it was what was expected with the imputed results with jest
-
-## License 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-    
 ## Questions
 GitHub: [ptookey](https://github.com/ptookey)
 Email: petetookey@gmail.com
